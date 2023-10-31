@@ -8,6 +8,6 @@ Hello, I'm Edi Gurmani, a passionate software developer with a knack for buildin
 💡 I'm dedicated to learning and growing. I enjoy tackling complex challenges and contributing to open-source projects.
 
 📫 Contact
-✉️ Email: edigurmani19@gmail.com(mailto:edigurmani19@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/edi-gurmani(https://www.linkedin.com/in/edi-gurmani/)
+✉️ Email: edigurmani19@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/edi-gurmani
 Let's code, collaborate, and build the future together! 🚀
