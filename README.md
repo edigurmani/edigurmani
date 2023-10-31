@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello, I'm Edi Gurmani, a passionate software developer with a knack for building elegant, efficient, and user-friendly web applications. My coding journey is fueled by curiosity and a commitment to staying at the forefront of technology trends.
 
-<!--
-**edigurmani/edigurmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I specialize in:
 
-Here are some ideas to get you started:
+🚀 React: Crafting modern, responsive web interfaces that users love to interact with.
+🌐 HTML & CSS: Creating the foundation for visually appealing and accessible web content.
+🚀 JavaScript: Adding interactivity and dynamism to websites.
+💡 I'm dedicated to learning and growing. I enjoy tackling complex challenges and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+✉️ Email: edigurmani19@gmail.com(mailto:edigurmani19@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/edi-gurmani(https://www.linkedin.com/in/edi-gurmani/)
+Let's code, collaborate, and build the future together! 🚀
